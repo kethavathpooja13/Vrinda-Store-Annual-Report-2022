@@ -1,3 +1,15 @@
+![Screenshot 2024-08-24 142500](https://github.com/user-attachments/assets/80fe6e98-b394-4b72-afde-c2e578298e5f)
+
+
+
+
+
+
+
+
+
+
+
 # Vrinda-Store-Annual-Report-2022
 Vrinda Store Sales Analysis and Recommendations
 Project Overview
